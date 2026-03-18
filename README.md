@@ -1,4 +1,14 @@
-# DevOps Capstone Template
+# devops-capstone-project
+
+## Brief description
+
+This project focuses on planning and managing the development of a Customer Account microservice for an e-commerce platform using Agile and DevOps practices.
+
+The microservice is designed to expose a well-structured REST API that enables other services to perform core customer account operations such as reading, updating, deleting, and listing customer records. A basic service foundation has already been implemented, including the database model and an initial API endpoint for creating customer accounts.
+
+The primary objective of this capstone is to simulate a real-world Agile development process by organizing project work into user stories, building and refining a product backlog, and planning iterative delivery through multiple sprints. The project also involves preparing the development environment and using modern cloud-native and CI/CD tools to support continuous integration and deployment workflows.
+
+Overall, this capstone provides hands-on experience in Agile planning, microservice architecture, and DevOps practices within a collaborative software development environment.
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
