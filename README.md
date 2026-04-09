@@ -1,5 +1,8 @@
 # devops-capstone-project
 
+![Build Status](https://github.com/Medonati/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
+
 ## Brief description
 
 This project focuses on planning and managing the development of a Customer Account microservice for an e-commerce platform using Agile and DevOps practices.
